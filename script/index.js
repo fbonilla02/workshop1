@@ -14,9 +14,8 @@ document.addEventListener('DOMContentLoaded', async ()=>{
 
 document.addEventListener('click', ({target})=>{
     if(target.classList.contains('text-danger')){
-       let id = target.id;
-       const url = `http://localhost:4000/productos/${id}`
-       console.log(url);
-       DeleteData(url)
+        let id = target.id;
+
+        DeleteData(id)
     }
 })

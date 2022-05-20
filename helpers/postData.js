@@ -1,7 +1,7 @@
-const PostData = async (url, object = {}) => {
+const PostData = async (object = {}) => {
 
     try {
-        let res = await fetch(url, {
+        let res = await fetch("https://workshop-12.herokuapp.com/productos/", {
             method: 'POST',
             body: JSON.stringify(object),
             headers: {

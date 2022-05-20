@@ -1,4 +1,4 @@
-const getData = async (url = "http://localhost:4000/productos") => {
+const getData = async (url = "https://workshop-12.herokuapp.com/productos/") => {
 
     try {
         let res = await fetch(url);
