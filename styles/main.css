@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@700&family=Poppins:wght@200;300&display=swap');
+
+
+body{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    
+}
+.imagenes-p{
+    max-width:170px;
+    margin-left: 50px;
+
+    
+    
+
+}
+.g-col-10 {
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 616px;
+    height: 924px;
+   
+}

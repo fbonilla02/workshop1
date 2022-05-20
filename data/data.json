@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "imgUno": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653079251/Rectangle_1_cdakvn.png",
+      "imgTwo": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653079251/Rectangle_2_neimgh.png",
+      "imgThree": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653079251/Rectangle_4_dnlfhz.png",
+      "imgFour": "https://res.cloudinary.com/dixwwvzbt/image/upload/v165307https9251/Rectangle_3_oacluh.png",
+      "product": "verano caluroso a la sepecti(camisa)",
+      "price": "999.655",
+      "description": "un producto muy chevere para tu dia a dia"
+    },
+    {
+      "id": 2,
+      "imgUno": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074696/Frame_14_dtcm9o.png",
+      "imgTwo": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074695/Frame_15_m3ffle.png",
+      "imgThree": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074695/Frame_16_qoaqzp.png",
+      "imgFour": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653079251/Rectangle_3_oacluh.png",
+      "product": "invierno azul con vinotinto(camisa)",
+      "price": "299.655",
+      "description": "un producto dos"
+    },
+    {
+      "id": 3,
+      "imgUno": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074695/Frame_17_rdo2pw.png",
+      "imgTwo": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074695/Frame_18_gq2a7h.png",
+      "imgThree": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074695/Frame_19_qryawp.png",
+      "imgFour": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653079251/Rectangle_3_oacluh.png",
+      "product": "primavera negro(buso)",
+      "price": "199.655",
+      "description": "un producto muy uwu"
+    },
+    {
+      "id": 4,
+      "imgUno": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074696/Rectangle_4_owtm5w.png",
+      "imgTwo": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074695/Frame_21_ign9oz.png",
+      "imgThree": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653074696/Frame_22_t0styw.png",
+      "imgFour": "https://res.cloudinary.com/dixwwvzbt/image/upload/v1653079251/Rectangle_3_oacluh.png",
+      "product": "invierno de luz y sol(camisa) ",
+      "price": "499.655",
+      "description": "por favor pasenos profe"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{ 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #181818;
+    font-family: 'Poppins', sans-serif;
+}
+.Imagentitulo{ 
+    width: 20%;
+    margin-top: 20px;
+    
+}
+.Partesuperior{ 
+    text-align: center;
+    width: 100%;
+    background-color: #181818;
+}
+.Formulario1{ 
+       display: flex;
+       align-items: center;
+       justify-content: center;
+      
+       width: 100%;
+       margin-top: 3%;
+
+}
+#Formulario{ 
+    width: 50%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#Formulario input{ 
+    padding: 25px;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+#Formulario input::placeholder{ 
+    font-size: 1.3rem;
+    font-style: italic;
+
+}
+#Formulario button{ 
+    width: 45%;
+    height: 80px;
+    border-radius: 50px;
+    border: none;
+    font-size: 1.2rem;
+    box-shadow: 1.5px 1.5px 1.5px 1px rgba(0, 0, 0, 0.537);
+    color: white;
+    background-color: RGB(241,73,20);
+}
+@media  (min-width:325px) {
+    
+}
